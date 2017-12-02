@@ -13,3 +13,9 @@ Various classifiers are used to find the most accurate classifiers. The classifi
 
 Most important R libraries used are caret and mlr.
 
+### Outcome
+With cross validation, the result shows that C5.0 classifier has the highest accuracy (0.96) and Kappa value (0.81). The Kappa statistic (or value) is a metric that compares an Observed Accuracy with an Expected Accuracy (random chance). It is always less than or equal to 1. A value of 1 implies perfect agreement and values less than 1 imply less than perfect agreement.
+
+
+
+
