@@ -10,9 +10,11 @@ The gun deaths rate per 100,000 for each race category is summarized as follow.
 - 'Native American/Native Alaskan': 24.521955573811088,
 - 'White': 33.56849303419181
  
-Restricting to homicide intent, the gun deaths rate per 100,000 becomes:
+Restricting to homicide intent only, the gun deaths rate per 100,000 becomes:
 - 'Asian/Pacific Islander': 3.530346230970155,
 - 'Black': 48.471284987180944,
 - 'Hispanic': 12.627161104219914,
 - 'Native American/Native Alaskan': 8.717729026240365,
 - 'White': 4.6356417981453335
+
+Especially in the second matrix, one can see that the gun deaths in the US disproportinally affects people in Black race category.
