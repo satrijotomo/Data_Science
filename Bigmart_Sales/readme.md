@@ -2,3 +2,5 @@
 
 # Under construction #
 Jupyter notebook and machine learning will be used to analyze which product sells more in each store.
+
+Analysis to come
