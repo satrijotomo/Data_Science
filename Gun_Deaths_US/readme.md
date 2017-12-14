@@ -17,4 +17,4 @@ Restricting to homicide intent only, the gun deaths rate per 100,000 becomes:
 - 'Native American/Native Alaskan': 8.717729026240365,
 - 'White': 4.6356417981453335
 
-Especially in the second matrix, one can see that the gun deaths in the US disproportinally affects people in Black race category.
+When we restrict the intent factor to homicide, one can see that the gun deaths in the US disproportinally affects people in Black and Hispanic race categories.
